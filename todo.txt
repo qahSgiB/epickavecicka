@@ -1,0 +1,3 @@
+add to CMakeLists.txt
+
+visitlab_add_directory(epickavecicka)
